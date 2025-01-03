@@ -1,2 +1,3 @@
 # School-Java-Learning
  My journey on learning Java
+Im still new at this point. I dont even know if im using GitHub right. But Im currently in school for software development, and I also try to learn stuff in my own free time as well to advance. My goal is very simple. I dont need a very high paying job, I just want to work from home and make enough to not have to worry. Keep watching my progress...
